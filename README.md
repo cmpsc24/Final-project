@@ -31,6 +31,7 @@ Functionalities and Test Results: Present functionalities and testing results fo
 Discussion and Conclusions: Discuss project issues, limitations, and the application of course learnings.
 Issues: Lot of data to store, long lines of code, 
 Not easy to look at and not too organized. Isn’t too user-friendly.
+There are a few issues this project experiences when there is a lot of data to store. Its code is not the cleanest, which doesn’t leave for the most organized structure. It isn’t user-friendly without a dedicated UI to help users navigate through the system. The large amounts of data can lead to slower runtime. Upon a given opportunity to improve this project, a GUI would be implemented to visualize the lists of voters and a search feature would be implemented when a large data set is inputted so that it is easier to find the items. Overall, this project can be scaled for larger systems of voting.
 
 Limitations: Slow Runtime with larger amount of data. 
 
