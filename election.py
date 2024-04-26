@@ -60,7 +60,7 @@ voter_states = ["CA", "TX", "FL", "NY", "PA", "IL", "OH", "MI", "NC", "GA"]
 
 voters = []
 
-for i in range(5):
+for i in range(15):
     name = random.choice(voter_names)
     age = voter_ages[i]
     party = random.choice(voter_parties)
